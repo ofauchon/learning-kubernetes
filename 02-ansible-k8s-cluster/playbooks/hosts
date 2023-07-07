@@ -1,0 +1,7 @@
+[masters]
+kube01 ansible_host=192.168.1.161 ansible_user=root
+
+[workers]
+kube02 ansible_host=192.168.1.162 ansible_user=root
+kube03 ansible_host=192.168.1.163 ansible_user=root
+kube04 ansible_host=192.168.1.164 ansible_user=root
